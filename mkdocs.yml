@@ -6,9 +6,9 @@ repo_name: parsdevkit/pars
 edit_uri: https://github.com/parsdevkit/pars-downloads/edit/main/contents/
 docs_dir: contents
 nav:
-  - Download: index.md
-  - Archives: archives/index.md
-  - Change Logs: changelogs/index.md
+  - Download: pars/index.md
+  - Archives: pars/archives/index.md
+  - Change Logs: pars/changelogs/index.md
 
 theme:
   name: material
